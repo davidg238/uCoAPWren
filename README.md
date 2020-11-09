@@ -1,6 +1,6 @@
 ## uCoAPWren
 
-This is exploratory code referenced in one [blog post]() of a series, exploring the use of [Wren](https://github.com/wren-lang/wren) on microcontrollers.
+This is exploratory code referenced in a [blog post](https://www.ekorau.com/wren-as-a-coap-handler-1/) of a series, exploring the use of [Wren](https://github.com/wren-lang/wren) on microcontrollers.
 This version of the CoAP server code has only been tested on Ubuntu, exercised via the [libcoap](https://github.com/obgm/libcoap) command line tool
  coap-client.
 
